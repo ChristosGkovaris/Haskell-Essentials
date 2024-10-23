@@ -85,5 +85,5 @@ Welcome to the "Haskell Utility Functions" repository, a collection of useful fu
 ## How to Run
 - Clone the Repository:
   ```bash
-     git clone https://github.com/yourusername/haskell-utility-functions.git
-     cd haskell-utility-functions
+     git clone https://github.com/yourusername/Haskell-Essentials.git
+     cd Haskell-Essentials
