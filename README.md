@@ -82,6 +82,7 @@ Welcome to the "Haskell Utility Functions" repository, a collection of useful fu
 ## Implementation Details
 - The functions are implemented in Haskell and are designed to handle various tasks related to numerical computations and list manipulations.
 
+
 ## How to Run
 - Clone the Repository:
   ```bash
